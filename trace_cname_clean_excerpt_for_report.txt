@@ -1,0 +1,10 @@
+
+Fresh +trace DNS queries (Feb 22 2026 21:16–21:17 IST)
+----------------------------------------------------
+From uber_dns_trace_fresh_20260222-2116.txt:
+15205598.uber.com. 600 IN CNAME sendgrid.net.
+
+From uber_dns_trace_fresh_20260222-2117.txt:
+15205598.uber.com. 600 IN CNAME sendgrid.net.
+
+Full trace files attached for complete resolution path.

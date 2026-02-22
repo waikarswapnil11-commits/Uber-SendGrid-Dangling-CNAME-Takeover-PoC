@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.20.18-1-Debian <<>> 15205598.uber.com ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOTIMP, id: 64881
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; WARNING: EDNS query returned status NOTIMP - retry with '+noedns'
+
+;; QUESTION SECTION:
+;15205598.uber.com.		IN	ANY
+
+;; Query time: 7 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (TCP)
+;; WHEN: Sun Feb 22 21:16:37 IST 2026
+;; MSG SIZE  rcvd: 35
+

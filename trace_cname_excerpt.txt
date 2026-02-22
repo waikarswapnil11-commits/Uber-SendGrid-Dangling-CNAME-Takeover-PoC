@@ -1,0 +1,18 @@
+uber_dns_trace_fresh_20260222-2116.txt:; <<>> DiG 9.20.18-1-Debian <<>> 15205598.uber.com ANY +trace
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:501:b1f9::30#53(2001:501:b1f9::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:500:856e::30#53(2001:500:856e::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:503:39c1::30#53(2001:503:39c1::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:503:a83e::2:30#53(2001:503:a83e::2:30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:502:1ca1::30#53(2001:502:1ca1::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2001:503:d2d::30#53(2001:503:d2d::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2a00:edc0:6259:7:4::4#53(2a00:edc0:6259:7:4::4) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:;; Connection to 2a00:edc0:6259:7:4::2#53(2a00:edc0:6259:7:4::2) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2116.txt:15205598.uber.com.	600	IN	CNAME	sendgrid.net.
+uber_dns_trace_fresh_20260222-2117.txt:; <<>> DiG 9.20.18-1-Debian <<>> 15205598.uber.com ANY +trace
+uber_dns_trace_fresh_20260222-2117.txt:;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2117.txt:;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2117.txt:;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+uber_dns_trace_fresh_20260222-2117.txt:15205598.uber.com.	600	IN	CNAME	sendgrid.net.

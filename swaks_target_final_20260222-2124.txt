@@ -1,0 +1,9 @@
+=== Trying smtp.sendgrid.net:587...
+=== Connected to smtp.sendgrid.net.
+<-  220 SG ESMTP service ready at geopod-ismtpd-canary-0
+ -> HELO localhost
+<-  250 Hello, nice to meet you
+*** Host did not advertise authentication
+ -> QUIT
+<-  221 See you later
+=== Connection closed with remote host.

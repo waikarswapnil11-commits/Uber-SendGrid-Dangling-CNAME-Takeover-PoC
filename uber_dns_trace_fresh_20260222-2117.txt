@@ -1,0 +1,62 @@
+
+; <<>> DiG 9.20.18-1-Debian <<>> 15205598.uber.com ANY +trace
+;; global options: +cmd
+.			511976	IN	NS	a.root-servers.net.
+.			511976	IN	NS	b.root-servers.net.
+.			511976	IN	NS	c.root-servers.net.
+.			511976	IN	NS	d.root-servers.net.
+.			511976	IN	NS	e.root-servers.net.
+.			511976	IN	NS	f.root-servers.net.
+.			511976	IN	NS	g.root-servers.net.
+.			511976	IN	NS	h.root-servers.net.
+.			511976	IN	NS	i.root-servers.net.
+.			511976	IN	NS	j.root-servers.net.
+.			511976	IN	NS	k.root-servers.net.
+.			511976	IN	NS	l.root-servers.net.
+.			511976	IN	NS	m.root-servers.net.
+.			511976	IN	RRSIG	NS 8 0 518400 20260307050000 20260222040000 21831 . Lu01sx5/Sc9onYMZjqPvG9HTSUMYTcZckYrR/vHpSAN6wnDUw5I/AMYf 71IAvDT5vYgY/tcw8sQvSF12/HAeQ8sfDqjHY4BMDbh00637R+I7yCX9 2pnZFo26lC1iwsAaGjkDmVrJuCGgwkTwPwgF5hUpNwSlDlg/O2WDPnfO DjtIiojiUv3ZIbBFl6Sv7WNJuvGnnqBSBQZBMxwX6FopCap1VFcklqvm gxgYJVMyz6N2bPUqbY7R4GCmfnyWWzgc0QFVhhE7B/FbYjYwhaxhTRZo DGt6tRQgnv1EC8HQHTyWlqXG7Dt1d1x1GEUkQThRC0H5GkMIFfFqH1Qq DGmt5w==
+;; Received 525 bytes from 1.1.1.1#53(1.1.1.1) in 3 ms
+
+com.			172800	IN	NS	a.gtld-servers.net.
+com.			172800	IN	NS	b.gtld-servers.net.
+com.			172800	IN	NS	c.gtld-servers.net.
+com.			172800	IN	NS	d.gtld-servers.net.
+com.			172800	IN	NS	e.gtld-servers.net.
+com.			172800	IN	NS	f.gtld-servers.net.
+com.			172800	IN	NS	g.gtld-servers.net.
+com.			172800	IN	NS	h.gtld-servers.net.
+com.			172800	IN	NS	i.gtld-servers.net.
+com.			172800	IN	NS	j.gtld-servers.net.
+com.			172800	IN	NS	k.gtld-servers.net.
+com.			172800	IN	NS	l.gtld-servers.net.
+com.			172800	IN	NS	m.gtld-servers.net.
+com.			86400	IN	DS	19718 13 2 8ACBB0CD28F41250A80A491389424D341522D946B0DA0C0291F2D3D7 71D7805A
+com.			86400	IN	RRSIG	DS 8 1 86400 20260307050000 20260222040000 21831 . C06Jp0Ek21AET3EKtUfsAi8WLnWUJ+tFQrZ4B/KToJymqRDvt0xPtHLx boVQ7tk2QxjPBE9k1qCGmft3UCdYbHCuSc4Iqbly7yQfy/aKbK5AqVDX uNIk9dGPHZyHXMoJ10gt7Or7Nig4V9+RoSRwzjNhVgvHV+NzvqOqNvTJ 2/UMn3/jLGPMZjiY9un54VVNe4AYjXjI14UTGvsUQiS9C8vkVzFgU2D9 AZ+k9fSbSOMRBI9zUGWpUkAldlcZR/nxtI7F6kXycw5aPsVdBSQqAU+v uGgbh5rfpUyx553wPbm0FKKGjQxChXwdlsTuiq0kgnwzIzBS4jJ7lO1k reQPSw==
+;; Received 1177 bytes from 192.58.128.30#53(j.root-servers.net) in 3 ms
+
+;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+;; no servers could be reached
+;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+;; no servers could be reached
+;; Connection to 2001:500:d937::30#53(2001:500:d937::30) for 15205598.uber.com failed: connection refused.
+uber.com.		172800	IN	NS	dns1.p04.nsone.net.
+uber.com.		172800	IN	NS	dns2.p04.nsone.net.
+uber.com.		172800	IN	NS	dns3.p04.nsone.net.
+uber.com.		172800	IN	NS	dns4.p04.nsone.net.
+uber.com.		172800	IN	NS	edns126.ultradns.com.
+uber.com.		172800	IN	NS	edns126.ultradns.net.
+uber.com.		172800	IN	NS	edns126.ultradns.biz.
+uber.com.		172800	IN	NS	edns126.ultradns.org.
+CK0POJMG874LJREF7EFN8430QVIT8BSM.com. 900 IN NSEC3 1 1 0 - CK0Q3UDG8CEKKAE7RUKPGCT1DVSSH8LL NS SOA RRSIG DNSKEY NSEC3PARAM
+CK0POJMG874LJREF7EFN8430QVIT8BSM.com. 900 IN RRSIG NSEC3 13 2 900 20260227002709 20260219231709 35511 com. nl6EEYuBckagiOH5lZjvMTWvjdQ3cRJ60XGGiCHyt9+3YkCF0Vyyy6qi Bo4eGD/6vcdlS75rJtOpr3IiXNmU/w==
+O6KEOHNI6VFQ2O0TIFUJ78M0EM825SS0.com. 900 IN NSEC3 1 1 0 - O6KF3HLPL5ORD2EPPSLR6GOFEFE9ORG8 NS DS RRSIG
+O6KEOHNI6VFQ2O0TIFUJ78M0EM825SS0.com. 900 IN RRSIG NSEC3 13 2 900 20260228023840 20260221012840 35511 com. YXbPkzYisLS/IR25UckzZg2hunwZUm2Y8H5bs5v+ClBOEHrYznHOWhWm L9Qwe+6jtc1mkdIc9da2hayDQ5hAag==
+;; Received 666 bytes from 192.55.83.30#53(m.gtld-servers.net) in 135 ms
+
+15205598.uber.com.	600	IN	CNAME	sendgrid.net.
+uber.com.		86400	IN	NS	edns126.ultradns.biz.
+uber.com.		86400	IN	NS	edns126.ultradns.com.
+uber.com.		86400	IN	NS	edns126.ultradns.net.
+uber.com.		86400	IN	NS	edns126.ultradns.org.
+;; Received 202 bytes from 204.74.110.126#53(edns126.ultradns.net) in 3 ms
+
